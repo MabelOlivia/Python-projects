@@ -1,0 +1,11 @@
+CRITICAL:root:Critical
+ERROR:root:Error
+CRITICAL:root:Critical
+ERROR:root:Error
+WARNING:root:warning
+INFO:root:Info
+DEBUG:root:Debugging
+INFO:root:division in progress
+ERROR:root:division by zero
+WARNING:root:withdrawal above 500
+WARNING:root:withdrawal above 500

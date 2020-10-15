@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Abstraction/.idea/Abstraction.iml" filepath="$PROJECT_DIR$/../Abstraction/.idea/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CLASSES/.idea/CLASSES.iml" filepath="$PROJECT_DIR$/../CLASSES/.idea/CLASSES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Encapsulation/.idea/Encapsulation.iml" filepath="$PROJECT_DIR$/../Encapsulation/.idea/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exception handling/.idea/Exception handling.iml" filepath="$PROJECT_DIR$/../Exception handling/.idea/Exception handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FUNCTIONS/.idea/FUNCTIONS.iml" filepath="$PROJECT_DIR$/../FUNCTIONS/.idea/FUNCTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Files/.idea/Files.iml" filepath="$PROJECT_DIR$/../Files/.idea/Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hello world/.idea/Hello world.iml" filepath="$PROJECT_DIR$/../Hello world/.idea/Hello world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" filepath="$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multithreading/.idea/Multithreading.iml" filepath="$PROJECT_DIR$/../Multithreading/.idea/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ObjectOrientedProgramming/.idea/ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/../ObjectOrientedProgramming/.idea/ObjectOrientedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PROJECTS/.idea/PROJECTS.iml" filepath="$PROJECT_DIR$/../PROJECTS/.idea/PROJECTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pyshop/.idea/Pyshop.iml" filepath="$PROJECT_DIR$/../Pyshop/.idea/Pyshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../date and time/.idea/date and time.iml" filepath="$PROJECT_DIR$/../date and time/.idea/date and time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../heart/.idea/heart.iml" filepath="$PROJECT_DIR$/../heart/.idea/heart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../polymorphism/.idea/polymorphism.iml" filepath="$PROJECT_DIR$/../polymorphism/.idea/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regularExpressions/.idea/regularExpressions.iml" filepath="$PROJECT_DIR$/../regularExpressions/.idea/regularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stringassignment/.idea/stringassignment.iml" filepath="$PROJECT_DIR$/../stringassignment/.idea/stringassignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/variable and flow control.iml" filepath="$PROJECT_DIR$/.idea/variable and flow control.iml" />
+    </modules>
+  </component>
+</project>
